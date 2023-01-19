@@ -9,4 +9,4 @@ I've made this one 'cause it was starting to hurt, vim is indeed very anatomic.
 
 # License
 
-Copyright (c) Jeff Venancius. Distributed under the same terms as Vim itself. See :help license.
+Copyright (c) Jeff Venancius. Distributed under the same terms as Vim itself. See `:help license`.
