@@ -7,6 +7,8 @@ If you try to do the usual movements in normal mode vim won't let you at it will
 
 I've made this one 'cause it was starting to hurt, vim is indeed very anatomic.
 
+Oh, it's a plugin, treat it like a plugin, please.
+
 # License
 
 Copyright (c) Jeff Venancius. Distributed under the same terms as Vim itself. See `:help license`.
